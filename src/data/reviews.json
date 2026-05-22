@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "cable-management-tray",
+    "title": "Under-Desk Cable Management Tray",
+    "category": "Desk setup",
+    "summary": "A practical look at whether cable trays solve a real daily problem or just hide clutter.",
+    "verdict": "Worth it for fixed desks with a monitor, dock, and charger. Skip for minimalist laptop-only setups.",
+    "points": [
+      "Useful when your desk has a back lip or pre-drilled mounting points.",
+      "The win is fewer dangling cables and fewer accidental pulls.",
+      "Skip it if you rent with strict no-screw rules or only use two cables."
+    ],
+    "score": 86,
+    "tag": "Buy",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "usb-c-hub-checklist",
+    "title": "USB-C Hub Checklist",
+    "category": "Tech accessories",
+    "summary": "The three specs that matter more than the product photo.",
+    "verdict": "Buy known-brand hubs with clear specs. Skip listings with vague “4K support” language.",
+    "points": [
+      "Check power delivery wattage.",
+      "Confirm HDMI 4K at 60Hz, not only 30Hz.",
+      "Avoid unknown-brand hubs for permanent desk power."
+    ],
+    "score": 78,
+    "tag": "Check",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "laptop-stand",
+    "title": "Laptop Stand vs Monitor Arm",
+    "category": "Ergonomics",
+    "summary": "A no-hype comparison for people building a workday setup.",
+    "verdict": "Laptop stands fit portable setups; monitor arms fit permanent workstations.",
+    "points": [
+      "Laptop stands are cheap and portable.",
+      "Monitor arms are better for fixed daily work.",
+      "Neither fixes posture alone; the full setup matters."
+    ],
+    "score": 82,
+    "tag": "Buy",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "desk-lamp",
+    "title": "Desk Lamp Buying Notes",
+    "category": "Lighting",
+    "summary": "What to check before buying a viral desk lamp.",
+    "verdict": "Buy for controllable task lighting. Skip lamps that cannot angle away from your eyes.",
+    "points": [
+      "Adjustable height/angle beats RGB features.",
+      "Glare control matters more than max brightness.",
+      "Avoid unproven health claims."
+    ],
+    "score": 74,
+    "tag": "Check",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "monitor-arm",
+    "title": "Monitor Arm Red Flags",
+    "category": "Desk setup",
+    "summary": "The recurring complaints that matter before mounting a monitor.",
+    "verdict": "Buy only after checking weight, VESA, and desk edge.",
+    "points": [
+      "Check monitor weight and VESA compatibility.",
+      "Cheap arms sag with ultrawide/heavy displays.",
+      "Clamp depth matters on thick or glass desks."
+    ],
+    "score": 80,
+    "tag": "Check",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "portable-monitor",
+    "title": "Portable Monitor for Work Travel",
+    "category": "Travel tech",
+    "summary": "Who benefits from a second screen and who should skip it.",
+    "verdict": "Worth it for multi-window work while travelling. Skip if you mostly answer email.",
+    "points": [
+      "Helpful for charting, spreadsheets, coding, and reference docs.",
+      "Adds cable clutter and battery drain.",
+      "Brightness and stand quality beat resolution."
+    ],
+    "score": 76,
+    "tag": "Wait",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "lavalier-mic",
+    "title": "Lavalier Microphone Audio Test",
+    "category": "Creator gear",
+    "summary": "A review framework for compact creator microphones.",
+    "verdict": "Buy if speech clarity improves in your actual recording setup.",
+    "points": [
+      "Compare raw voice before and after noise reduction.",
+      "Check phone compatibility.",
+      "Watch for wind noise and clothing rub."
+    ],
+    "score": 84,
+    "tag": "Buy",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "magsafe-stand",
+    "title": "MagSafe Desk Stand",
+    "category": "Phone accessories",
+    "summary": "A small desk accessory that is only useful in the right setup.",
+    "verdict": "Buy for visible phone workflows. Skip if it encourages distraction.",
+    "points": [
+      "Useful for calls, timers, and 2FA.",
+      "Charging speed and magnet strength vary.",
+      "It is clutter if your phone should stay away from the desk."
+    ],
+    "score": 69,
+    "tag": "Wait",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "walking-pad",
+    "title": "Walking Pad Before You Buy",
+    "category": "Workday gear",
+    "summary": "Noise, space, and returns before buying a desk walking pad.",
+    "verdict": "Wait until you verify space, noise tolerance, and return policy.",
+    "points": [
+      "Measure storage space first.",
+      "Noise matters in apartments and shared offices.",
+      "Return shipping can be painful because units are heavy."
+    ],
+    "score": 71,
+    "tag": "Wait",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  },
+  {
+    "slug": "desk-mat",
+    "title": "Desk Mat: Upgrade or Aesthetic?",
+    "category": "Desk setup",
+    "summary": "When a desk mat improves the work surface and when it is just decoration.",
+    "verdict": "Buy if it solves mouse/keyboard surface issues. Skip if you only want a prettier photo.",
+    "points": [
+      "Helps mouse movement and keyboard sound.",
+      "Large mats can trap dust.",
+      "Material smell and edge curling are common complaints."
+    ],
+    "score": 73,
+    "tag": "Check",
+    "productUrl": "",
+    "affiliateUrl": "",
+    "updatedAt": "2026-05-22"
+  }
+]

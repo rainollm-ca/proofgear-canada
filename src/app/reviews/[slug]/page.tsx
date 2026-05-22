@@ -41,6 +41,12 @@ export default async function ReviewPage({ params }: Props) {
       <section className="mt-12 rounded-[2rem] border border-stone-200 bg-white/70 p-8">
         <h2 className="serif text-4xl tracking-[-0.04em]">Bottom line</h2>
         <p className="mt-4 text-xl leading-8 text-stone-700">{review.verdict}</p>
+        {(review.affiliateUrl || review.productUrl) && (
+          <div className="mt-8 flex flex-wrap gap-3">
+            {review.affiliateUrl && <a className="rounded-full bg-stone-950 px-5 py-3 text-sm font-bold text-white" href={review.affiliateUrl} rel="nofollow sponsored noopener noreferrer" target="_blank">Check affiliate link</a>}
+            {review.productUrl && <a className="rounded-full border border-stone-300 px-5 py-3 text-sm font-bold text-stone-900" href={review.productUrl} rel="noopener noreferrer" target="_blank">Product source</a>}
+          </div>
+        )}
       </section>
     </main>
   );
