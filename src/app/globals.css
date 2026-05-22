@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/newsreader';
+@import '@fontsource/geist-mono/400.css';
+
+:root {
+  --background: #f7f2ea;
+  --foreground: #171412;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(180, 83, 9, 0.10), transparent 34rem),
+    radial-gradient(circle at 80% 10%, rgba(12, 74, 110, 0.09), transparent 30rem),
+    var(--background);
+  color: var(--foreground);
+  font-family: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+}
+.serif { font-family: 'Newsreader Variable', Georgia, serif; }
+.mono { font-family: 'Geist Mono', ui-monospace, SFMono-Regular, monospace; }
+::selection { background: #171412; color: #f7f2ea; }
